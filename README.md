@@ -1,5 +1,4 @@
 # student-attendance-monitoring-system
-Python-based Student Attendance Monitoring System using Tkinter and CSV.
 
 Student Attendance Monitoring System
 Overview
@@ -20,6 +19,7 @@ Python
 Tkinter
 CSV
 Software Engineering
+
 Developed By
 
 Tushar L. Devendra
